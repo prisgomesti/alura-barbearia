@@ -178,7 +178,7 @@ td, th {
     font-style: italic;
 }
 
-.imagembeneficios{
+.imagem-beneficios{
     width: 40%;
 }
 
@@ -188,6 +188,15 @@ td, th {
     margin: 0 20px 20px 0;
 }
 
+.conteudo-beneficios{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios{
+    width: 40%;
+
+}
 .mapa{
     padding: 3em 0;
 }
