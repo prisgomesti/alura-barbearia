@@ -211,6 +211,10 @@ td, th {
 .itens:nth-child(1){
     font-weight: bold;
 }
+
+.itens:before {
+    content: "🟊";
+}
 .beneficios{
     padding: 3em 0;
     background: #888888;
