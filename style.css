@@ -199,6 +199,13 @@ td, th {
     vertical-align: top;
 }
 
+.itens {
+    line-height: 1.5;
+}
+
+.itens:nth-child(1){
+    font-weight: bold;
+}
 .beneficios{
     padding: 3em 0;
 }
