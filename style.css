@@ -166,6 +166,10 @@ td, th {
     clear: left;
 }
 
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
+}
 .principal p {
     margin: 0 0 1em;
 }
