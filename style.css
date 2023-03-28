@@ -251,10 +251,15 @@ td, th {
 
 @media screen and (max-width: 480px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+
         width: auto;
     }
 
     h1 {
+        text-align: center;
+    }
+
+    img h2{
         text-align: center;
     }
 
